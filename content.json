@@ -1,1 +1,15 @@
-{}
+{
+  "custom-list": [
+    {
+      "custom-list-item": "todo test one"
+    },
+    {
+      "custom-list-item": "todo test two"
+    }
+  ],
+  "custom-field": "This example text is used as a description.",
+  "custom-object": {
+    "custom-line": "Custom-line",
+    "custom-text": "Custom-text"
+  }
+}
