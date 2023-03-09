@@ -1,10 +1,10 @@
 {
   "custom-list": [
     {
-      "custom-list-item": "todo test one"
+      "custom-list-item": "<h3><strong><em>todo test one</em></strong></h3>"
     },
     {
-      "custom-list-item": "todo test two"
+      "custom-list-item": "<h5><code>todo test two</code></h5>"
     }
   ],
   "custom-field": "This example text is used as a description.",
